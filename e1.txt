@@ -1,0 +1,7 @@
+	PROGRAM A1;
+	VARIABLE INTEGER :X ,Y, Q ;
+    	Q=1;
+    	X=5;
+    	Y=11;
+ 	IF X GT Y AND Q THEN X=X+1 ELSE X=X+2;
+	ENP;
